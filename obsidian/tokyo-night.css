@@ -1,0 +1,75 @@
+/* Tokyo Night — Obsidian CSS parçacığı (2026-11-18). Varsayılan Obsidian temasının üstüne renkleri uygular.
+   Kapatmak: Ayarlar > Görünüm > CSS parçacıkları > tokyo-night */
+.theme-dark {
+  --color-base-00: #16161e;
+  --color-base-05: #191a24;
+  --color-base-10: #1a1b26;
+  --color-base-20: #1f2335;
+  --color-base-25: #24283b;
+  --color-base-30: #292e42;
+  --color-base-35: #2f3549;
+  --color-base-40: #3b4261;
+  --color-base-50: #545c7e;
+  --color-base-60: #737aa2;
+  --color-base-70: #a9b1d6;
+  --color-base-100: #c0caf5;
+
+  --color-red: #f7768e;
+  --color-orange: #ff9e64;
+  --color-yellow: #e0af68;
+  --color-green: #9ece6a;
+  --color-cyan: #7dcfff;
+  --color-blue: #7aa2f7;
+  --color-purple: #bb9af7;
+  --color-pink: #ff007c;
+
+  --accent-h: 221;
+  --accent-s: 89%;
+  --accent-l: 72%;
+
+  --background-primary: #1a1b26;
+  --background-primary-alt: #1f2335;
+  --background-secondary: #16161e;
+  --background-secondary-alt: #13131a;
+  --background-modifier-border: #292e42;
+  --background-modifier-hover: rgba(122, 162, 247, 0.10);
+  --background-modifier-active-hover: rgba(122, 162, 247, 0.18);
+  --text-normal: #c0caf5;
+  --text-muted: #a9b1d6;
+  --text-faint: #565f89;
+  --text-accent: #7aa2f7;
+  --text-accent-hover: #7dcfff;
+  --text-selection: rgba(61, 89, 161, 0.55);
+  --interactive-accent: #7aa2f7;
+  --interactive-accent-hover: #7dcfff;
+  --titlebar-background: #16161e;
+  --titlebar-background-focused: #16161e;
+  --ribbon-background: #16161e;
+  --tab-container-background: #16161e;
+
+  --h1-color: #7aa2f7;
+  --h2-color: #bb9af7;
+  --h3-color: #7dcfff;
+  --h4-color: #9ece6a;
+  --h5-color: #e0af68;
+  --h6-color: #ff9e64;
+  --link-color: #7aa2f7;
+  --link-external-color: #7dcfff;
+  --link-unresolved-color: #f7768e;
+  --tag-color: #bb9af7;
+  --tag-background: rgba(187, 154, 247, 0.12);
+  --code-background: #16161e;
+  --code-normal: #c0caf5;
+  --code-comment: #565f89;
+  --code-keyword: #bb9af7;
+  --code-string: #9ece6a;
+  --code-function: #7aa2f7;
+  --code-value: #ff9e64;
+  --code-property: #7dcfff;
+  --code-tag: #f7768e;
+  --blockquote-border-color: #7aa2f7;
+  --checkbox-color: #7aa2f7;
+  --graph-node: #7aa2f7;
+  --graph-node-focused: #bb9af7;
+  --graph-line: #292e42;
+}

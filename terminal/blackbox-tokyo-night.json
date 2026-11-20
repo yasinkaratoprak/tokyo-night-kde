@@ -1,0 +1,25 @@
+{
+    "name": "Tokyo Night",
+    "comment": "Tokyo Night Storm — Black Box renk düzeni",
+    "use-theme-colors": false,
+    "foreground-color": "#c0caf5",
+    "background-color": "#24283b",
+    "palette": [
+        "#1d202f",
+        "#f7768e",
+        "#9ece6a",
+        "#e0af68",
+        "#7aa2f7",
+        "#bb9af7",
+        "#7dcfff",
+        "#a9b1d6",
+        "#414868",
+        "#ff899d",
+        "#afe07c",
+        "#faba4a",
+        "#8db0ff",
+        "#c7a9ff",
+        "#a4daff",
+        "#c0caf5"
+    ]
+}

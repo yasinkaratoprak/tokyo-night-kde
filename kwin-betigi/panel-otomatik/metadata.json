@@ -1,0 +1,14 @@
+{
+    "KPackageStructure": "KWin/Script",
+    "KPlugin": {
+        "Id": "panel-otomatik",
+        "Name": "Panel otomatik gizleme",
+        "Description": "Tam ekran / büyütülmüş pencere varken tüm paneller otomatik gizlenir (fareyle açılır); yoksa görünür kalır.",
+        "Authors": [{ "Name": "Tokyo Night KDE paketi" }],
+        "License": "GPL",
+        "Version": "1.0",
+        "EnabledByDefault": false
+    },
+    "X-Plasma-API": "javascript",
+    "X-Plasma-MainScript": "code/main.js"
+}
